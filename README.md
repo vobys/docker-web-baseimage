@@ -1,8 +1,7 @@
 # PHP Plataform AArch64 Port Project
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/osixia/web-baseimage.svg)][hub]
-[![Docker Stars](https://img.shields.io/docker/stars/osixia/web-baseimage.svg)][hub]
-[![](https://images.microbadger.com/badges/image/osixia/web-baseimage.svg)](http://microbadger.com/images/osixia/web-baseimage "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/vobys/web-baseimage-arm64v8.svg)](https://microbadger.com/images/vobys/web-baseimage-arm64v8 "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/vobys/web-baseimage-arm64v8.svg)](https://microbadger.com/images/vobys/web-baseimage-arm64v8 "Get your own image badge on microbadger.com")
 
 [hub]: https://hub.docker.com/r/vobys/web-baseimage-arm64v8/
 
