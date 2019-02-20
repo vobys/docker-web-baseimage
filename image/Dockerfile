@@ -1,5 +1,5 @@
-FROM osixia/light-baseimage:1.1.1
-MAINTAINER Bertrand Gouny <bertrand.gouny@osixia.net>
+FROM vobys/light-baseimage-arm64v8
+MAINTAINER Alfredo Foltran <alfoltran@gmail.com>
 
 # Add Nginx and non-free repositories
 RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 573BFD6B3D8FBC641079A6ABABF5BD827BD9BF62 \
